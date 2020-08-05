@@ -140,3 +140,9 @@ GitHub | github.com/NekoSilverFox
 资料来源	128
 
 如果本书对你有所帮助，可以赞助我一杯奶茶呦 ( • ̀ω•́ )✧
+
+<img src="C:\Users\mi\Desktop\mm_facetoface_collect_qrcode_1596610007586.png" alt="mm_facetoface_collect_qrcode_1596610007586" style="zoom:25%;" />
+
+
+
+![1596609977](C:\Users\mi\Desktop\1596609977.jpg)
