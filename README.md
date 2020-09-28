@@ -6,7 +6,6 @@
 **其他下载地址：**<br/>
 https://emma.cloud.tabdigital.eu/s/btaDfA3pEpRjC4N
 
-
 联系方式： <br/>
 GitHub | github.com/NekoSilverFox <br/>
 哔哩哔哩 | space.bilibili.com/273451160 <br/>
@@ -144,8 +143,3 @@ GitHub | github.com/NekoSilverFox <br/>
     26.2 dump和restore命令	126 <br/>
 资料来源	128 <br/>
  <br/>
-如果本书对你有所帮助，可以赞助我一杯奶茶呦 ( • ̀ω•́ )✧ <br/>
- <br/>
-
-![Image text](https://github.com/NekoSilverFox/Linux/blob/master/%E6%88%91%E7%88%B1%E5%96%9D%E5%A5%B6%E8%8C%B6/Alipay.jpg) <br/>
-![Image text](https://github.com/NekoSilverFox/Linux/blob/master/%E6%88%91%E7%88%B1%E5%96%9D%E5%A5%B6%E8%8C%B6/WeChat.png)
